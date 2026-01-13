@@ -25,4 +25,19 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 
+## Project Screenshots
+
+### Register Page
+![Register](register.png)
+
+### Login Page
+![Login](login.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Terminal Output
+![Terminal](terminal-output.png)
+
+
   
